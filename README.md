@@ -1,1 +1,2 @@
-# healthcarejobs
+# healthcare jobs analysis
+Conducted a data-driven market research study to assess opportunities in the healthcare sector. Utilised Python for web scraping (e.g., BeautifulSoup, Selenium) to extract data from platforms such as SingHealth and Glassdoor, covering technical job roles, hiring demand, and salary distributions. Performed data cleaning, exploratory analysis, and trend identification to uncover workforce patterns and skill gaps. Consolidated insights into a presentation to support evidence-based strategic decision-making.
