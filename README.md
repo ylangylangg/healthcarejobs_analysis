@@ -1,2 +1,12 @@
-# healthcare jobs analysis
-Conducted a data-driven market research study to assess opportunities in the healthcare sector. Utilised Python for web scraping (e.g., BeautifulSoup, Selenium) to extract data from platforms such as SingHealth and Glassdoor, covering technical job roles, hiring demand, and salary distributions. Performed data cleaning, exploratory analysis, and trend identification to uncover workforce patterns and skill gaps. Consolidated insights into a presentation to support evidence-based strategic decision-making.
+# healthcare jobs analysis for FDM Group
+First capstone industry project in SIM Data Analytics Club, in collaboration with FDM Group. 
+
+This project involved conducting data-driven market research to explore employment opportunities and talent demand within Singapore's healthcare sector.
+Using Python and Selenium, we scraped job market data from platforms such as SingHealth and Glassdoor to examine technical job roles, hiring demand, and salary distributions.
+
+The project involved:
+- Web Scraping: Extracting healthcare job listings and salary-related data using Selenium.
+- Data Cleaning: Processing and preparing raw data for analysis.
+- Exploratory Data Analysis (EDA): Analysing job market trends, salary distributions, and workforce demand.
+- Trend Identification: Identifying in-demand technical roles, emerging skill requirements, and potential workforce skill gaps.
+- Insights & Presentation: Consolidating findi
